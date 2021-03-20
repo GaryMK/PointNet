@@ -1,4 +1,4 @@
-# PointNet++
+# PointNet
 This repo is implementation for PointNet and PointNet++ in pytorch.
 
 ### 三维点云技术概述
