@@ -188,4 +188,4 @@ Set Abstraction：sampling + grouping + pointnet
 
 在卷积神经网络中，感受野（Receptive Field）的定义是卷积神经网络每一层输出的特征图（feature map）上的像素点在输入图片上映射的区域大小。再通俗点的解释是，特征图上的一个点对应输入图上的区域，如图1所示。
 
-![img](PointNet++%E7%82%B9%E4%BA%91%E5%A4%84%E7%90%86%E7%B2%BE%E8%AE%B2(PyTorch)/20190718164953811.png)
+![20190718164953811](README/20190718164953811.png)
